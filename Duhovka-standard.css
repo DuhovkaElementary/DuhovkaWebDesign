@@ -1,0 +1,13 @@
+h1 {
+  text-align: center;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+p {
+  text-indent: 1.5em;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  line-height: 150%;
+  margin: 0.5em;
+  margin-left: 5em;
+  margin-right: 5em;
+}
